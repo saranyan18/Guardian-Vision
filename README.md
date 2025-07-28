@@ -186,5 +186,5 @@ MIT
 ---
 
 > **Guardian Vision** - Real-time crowd detection for safer environments
-> GitHub [@yourusername](https://github.com/yourusername) &nbsp;&middot;&nbsp;
+> GitHub saranyan18 (https://github.com/yourusername) &nbsp;&middot;&nbsp;
 > Built with ❤️ and cutting-edge AI technology
