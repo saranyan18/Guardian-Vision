@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://via.placeholder.com/200x200/000000/00ffea?text=GV" alt="Guardian Vision" width="200"></a>
-  <br>![logo](https://github.com/user-attachments/assets/b4292af8-5789-4349-bb73-8975d2391b93)
+  <a href="#"><img src="(https://github.com/user-attachments/assets/b4292af8-5789-4349-bb73-8975d2391b93)" alt="Guardian Vision" width="200"></a>
+  
 
   Guardian Vision
   <br>
