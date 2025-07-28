@@ -44,7 +44,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://via.placeholder.com/800x600/000000/00ffea?text=Guardian+Vision+HUD)
+
 
 ## Key Features
 
