@@ -101,7 +101,7 @@ python main.py
 
 ---
 
-## ⚙️ Installation
+
 
   ### 📋 Prerequisites
 
