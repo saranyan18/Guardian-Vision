@@ -103,13 +103,13 @@ python main.py
 
 ## ⚙️ Installation
 
-### 📋 Prerequisites
+  ### 📋 Prerequisites
 
-| Requirement | Version | Purpose |
-|-------------|---------|---------|
-| **Python** | 3.7+ | Core runtime |
-| **Webcam** | Any USB/Built-in | Video input |
-| **ONNX Model** | Person detection | AI inference |
+  | Requirement | Version | Purpose |
+  |-------------|---------|---------|
+  | **Python** | 3.7+ | Core runtime |
+  | **Webcam** | Any USB/Built-in | Video input |
+  | **ONNX Model** | Person detection | AI inference |
 
 ### 🔧 Dependency Installation
 
